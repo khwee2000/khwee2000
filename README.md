@@ -53,7 +53,7 @@ If you want to contact me, please leave me a message!
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khwee2000&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khwee2000&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
