@@ -1,60 +1,39 @@
-### 🤔 Hello, I'm Minsu Kim! <img align='right' src="https://github-readme-stats.vercel.app/api?username=khwee2000&theme=vision-friendly-dark" height="180"> 
-<a href="https://github.com/khwee2000"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/>  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=khwee2000)](https://solved.ac/khwee2000)</a>
--
-- I am a machine learning developer from South Korea 🇰🇷. I am interested in data science and deep learning and computer vision. I love reading, exercising and communicating! 
-- I worked as a 2D pipeline TD in the VFX industry for 4 years and 9 months.
---- 
-Good day!
+<a href="https://profile.jeongkoo.com/"><img src="https://img.shields.io/badge/Porfoilo-Web-blue"/></a>
+<a href="https://www.notion.so/cucus/d5ecae2649a3484e9b236d79cd7d7fe4"><img src="https://img.shields.io/badge/Porfoilo-Notion-blue"/></a>
+![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu)
 
 
+## 👋 &nbsp;데이터 분석가 김민수입니다. ☺️
 
-If you want to contact me, please leave me a message!
- 
+✔️ &nbsp;**세상을 이롭게 만드는 서비스**에 관심이 많습니다.\
+✔️ &nbsp;스타트업 환경에 맞는 **빠른 주기 개발**, **애자일 환경**에 익숙합니다.\
+✔️ &nbsp;기술을 꾸준히 공부하고 **지식을 공유**하며 **함께 성장**하는 삶을 지향합니다.\
+✔️ &nbsp;저에 대해 궁금하시다면 [웹 프로필](https://profile.jeongkoo.com/) 또는 [노션 이력서](https://www.notion.so/cucus/FullStack-d5ecae2649a3484e9b236d79cd7d7fe4)를 방문해주세요.
+
+
+### 🛠 &nbsp;Technical Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=rstudio)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br/>
 
-### 💫 Experience
-- **11st** - Machine learning developer *(Jan 2021 ~)*
-- **SAP** - Student Intern, Data analyst *(Jan 2020 - Jul 2020)*
-- **Google Developers** - DSC(Developer Student Clubs) Lead at South Korea *(2019-2020)*  
-  
+### 💻 &nbsp;GitHub Analytics
 
-<br/>  
+[![Github stats](https://github-readme-stats.vercel.app/api?username=congchu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
 
 
-### ✨ Summary
-
-- 🔭 I’m currently working on [11st corp](https://www.11st.co.kr/) as a machine learning engineer.
-- 🌱 I'm currently learning Deep Learning, Computer Vision.
-- 📝 I regularly write articles on [my blog](https://butter-shower.tistory.com).  
-
----
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-  
-  ### skills
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-### contact me
-
-<a href="https://github.com/khwee2000" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/bluenims" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
-</a>
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khwee2000&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
+### 🤝🏻 &nbsp;Links
+<a href="https://velog.io/@cookie004"><img src="https://img.shields.io/badge/-Velog-96f2d7?style=flat&logo=Velog&logoColor=white"/></a>
+<a href="mailto:cookie00421@gmail.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/jeongkoo.dev"><img src="https://img.shields.io/badge/-@jeongkoo.dev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
