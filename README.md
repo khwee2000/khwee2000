@@ -16,8 +16,8 @@ Hi I'm Kim minsu, I'm a dreamer of studying ML/DL. <br>Reading the world through
 ## 🔭About me
 
 ### :mortar_board: Education
-- B.S. in Data Science, Dongguk University `2019.03 ~ 2025.03`
-- (Double Major in Information and Communication Engineering)
+- B.S. in Information and Communication Engineering, Dongguk University `2019.03 ~ 2025.03`
+- Double Major in Data Science
 
 ### 🔭 Internships
 - Undergraduate Research Student in PADA Lab, Kwangwoon University `2022.07 ~ 2023.07`
