@@ -2,10 +2,7 @@
 
 ## 🙋‍♂️ Introduce
 <div align="center">
-  
 ### Hi I'm Kim minsu, I'm a dreamer of studying ML/DL. <br>Also, I'm a light fan of team Arsenal.👋
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhwee2000)](https://hits.seeyoufarm.com)
 </div>
 
 
@@ -80,6 +77,8 @@ Here is [my dacon profile page](https://dacon.io/myprofile/427011/home). I'm sti
 - 🥉 데이콘 Basic 음악 장르 예측 경진대회 - **Top 7% (9/125)**[[overview](https://dacon.io/competitions/official/236056/overview/descriptionhttps://dacon.io/competitions/official/236056/overview/description)][[code](https://dacon.io/competitions/official/236056/codeshare/7526?page=1&dtype=recent)]
 - 데이콘 Basic 해외 부동산 월세 가격 예측 경진대회 - **Top 12% (9/70)** [[overview](https://dacon.io/competitions/open/236044/overview/description)][[code](https://dacon.io/competitions/open/236044/codeshare/7348?page=1&dtype=recent)]
 
+## Hits
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhwee2000)](https://hits.seeyoufarm.com)
 
 [![Kisoo's github stats](https://github-readme-stats.vercel.app/api?username=kisooofficial&show_icons=true&theme=tokyonight)](https://github.com/kisooofficial)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisooofficial&layout=compact&theme=tokyonight)
 
