@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ Introduce
 <div align="center">
-# Hi I'm Kim minsu, I'm a dreamer of studying ML/DL. <br>Also, I'm a light fan of team Arsenal.👋
+### Hi I'm Kim minsu, I'm a dreamer of studying ML/DL. <br>Also, I'm a light fan of team Arsenal.👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKisooofficial)](https://hits.seeyoufarm.com)
 </div>
 
