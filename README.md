@@ -16,7 +16,7 @@ Hi I'm Kim minsu, I'm a dreamer of studying ML/DL. <br>Reading the world through
 ## 🔭About me
 
 ### :mortar_board: Education
-- B.S. in Data Science, Dongguk University '2019.03 ~ 2025.03'
+- B.S. in Data Science, Dongguk University `2019.03 ~ 2025.03`
 - (Double Major in Information and Communication Engineering)
 
 ### 🔭 Internships
