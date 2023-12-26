@@ -8,9 +8,8 @@ Hi I'm Kim minsu, I'm a dreamer of studying ML/DL. <br>Reading the world through
 
 ## 📫Contact
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kms4024@gmail.com)](mailto:kms4024@gmail.com) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100025947379584)](https://www.facebook.com/profile.php?id=100025947379584) 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/kisooofficial)](https://blog.naver.com/kisooofficial)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-5851DB?style=flat-square&logo=instagram&logoColor=white&link=https://www.facebook.com/profile.php?id=100025947379584)](https://www.instagram.com/ki_soo_ya/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-5851DB?style=flat-square&logo=instagram&logoColor=white&link=https://www.facebook.com/profile.php?id=100025947379584)](https://www.instagram.com/bluenims/) 
 
 ## 🔭About me
 
