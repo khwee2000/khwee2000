@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=3476DE&height=300&section=header&text=Kimnisofficial&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=3476DE&height=300&section=header&text=Bluemisofficial&fontSize=80)
 
 ## 🙋‍♂️ Introduce
 <div align="center">
