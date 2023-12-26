@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ Introduce
 <div align="center">
-### Hi I'm Kim minsu, I'm a dreamer of studying ML/DL. <br>Reading the world through computers 🌐 | ML/DL Developer | Captivated by the beauty of data.👋
+Hi I'm Kim minsu, I'm a dreamer of studying ML/DL. <br>Reading the world through computers 🌐 | ML/DL Developer | Captivated by the beauty of data.👋
 </div>
 
 
