@@ -9,7 +9,8 @@ Hi I'm Kim minsu, I'm a dreamer of studying ML/DL. <br>Reading the world through
 ## 📫Contact
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kms4024@gmail.com)](mailto:kms4024@gmail.com) 
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@khwee2000/posts)](https://velog.io/@khwee2000/posts)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-5851DB?style=flat-square&logo=instagram&logoColor=white&link=https://www.facebook.com/profile.php?id=100025947379584)](https://www.instagram.com/bluenims/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-5851DB?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bluenims/)](https://www.instagram.com/bluenims/)
+
 
 ## 🔭About me
 
