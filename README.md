@@ -30,31 +30,34 @@ Hi I'm Kim minsu, I'm a dreamer of studying ML/DL. <br>Reading the world through
 
 ### ⚡ ExtraCurricular Activity
 - Dongguk University Promotional Ambassador, Dreamer 8th Cohort, Planning Department Head
-Planning Department Head | March 2019 ~ March 2021
-
-- Dongguk University Volunteer Group 'True Person' 15th Cohort
-Member | March 2021 ~ June 2021
-
-- Republic of Korea Air Force 827th Information and Communication Battalion, Security Systems Soldier
-Service Period | June 2021 ~ March 2023
+Planning Department Head | ```2019.03 ~ 2021.03```
 
 - AYC Data Analysis Union Club
-Member | June 2020 ~ June 2021
+Member | ```2020.06 ~ 2021.06```
 
 - Dongguk University CAPS Academic Department
-Member | September 2020 ~ June 2021
+Member | ```2020.09 ~ 2021.06```
+
+- Dongguk University Volunteer Group 'True Person' 15th Cohort
+Member | ```2021.02 ~ 2021.06```
+
+- Sungkyunkwan University Pre-Startup Package, Delivery Sharing Platform '공공N빵' CTO
+```2021.01 ~ 2021.06```
+
+- Republic of Korea Air Force 827th Information and Communication Battalion, Security Systems Soldier
+Service Period | ```2021.06 ~ 2023.03```
 
 - Boot Camp Tech IT Data Analysis 1st Cohort
-Participant | March 2023 ~ September 2023
+Participant | ```2023.03 ~ 2023.09```
 
 - Dongguk University AI Course Teaching Assistant
-Teaching Assistant | June 2023 ~ September 2023
+Teaching Assistant | ```2023.03 ~ 2023.09```
 
 - HI-SW Volunteer Group, ChungHwa Middle School Instructor
-Instructor | June 2023 ~ December 2023
+Instructor | ```2023.09 ~ 2024.03```
 
 - Farm System AI Department / Project Manager
-Activity Period | June 2023 ~ March 2024
+Activity Period | ```2023.09 ~ 2024.03```
 
 
 ### 😄 Interests
