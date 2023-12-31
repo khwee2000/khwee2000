@@ -19,8 +19,14 @@ Hi I'm Kim minsu, I'm a dreamer of studying ML/DL. <br>Reading the world through
 - B.S. in Information and Communication Engineering, Dongguk University `2019.03 ~ 2025.03`
 - Double Major in Data Science
 
-### 🔭 Internships
-- Undergraduate Research Student in PADA Lab, Kwangwoon University `2022.07 ~ 2023.07`
+### 🔭 projects
+- Acokkini(아코끼니) - 동국대학교 식단 관리 서비스 (역할: 안드로이드 스튜디오) Dongguk University `2023.09 ~ 2023.12`
+- Algorithm-Coding-Test-Data-Analysis(알고리즘 코딩테스트 데이터분석 웹) - `2023.03 ~ 2023.09`
+- closeup(클로즈업) -
+- FarmSystem(팜시스템) -
+- OMZ-Translation(OMZ번역 서비스) -
+- Streamlit Guide: Web App Development(streamlit 가이드 책 배포) -
+
 
 ### ⚡ ExtraCurricular Activity
 
