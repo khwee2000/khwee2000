@@ -22,10 +22,10 @@ Hi I'm Kim minsu, I'm a dreamer of studying ML/DL. <br>Reading the world through
 ### 🔭 projects
 - Acokkini(아코끼니) - 동국대학교 식단 관리 서비스 (역할: 안드로이드 스튜디오) Dongguk University `2023.09 ~ 2023.12`
 - Algorithm-Coding-Test-Data-Analysis(알고리즘 코딩테스트 데이터분석 웹) - `2023.03 ~ 2023.09`
-- closeup(클로즈업) -
-- FarmSystem(팜시스템) -
-- OMZ-Translation(OMZ번역 서비스) -
-- Streamlit Guide: Web App Development(streamlit 가이드 책 배포) -
+- closeup(클로즈업) - `2023.03 ~ 2024.02`
+- FarmSystem(팜시스템) - `2023.03 ~ 2024.03`
+- OMZ-Translation(OMZ번역 서비스) - `2023.08 ~ 2023.12`
+- Streamlit Guide: Web App Development(streamlit 가이드 책 배포) - `2023.03 ~ 2023.09`
 
 
 ### ⚡ ExtraCurricular Activity
