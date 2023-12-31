@@ -29,12 +29,33 @@ Hi I'm Kim minsu, I'm a dreamer of studying ML/DL. <br>Reading the world through
 
 
 ### ⚡ ExtraCurricular Activity
+- Dongguk University Promotional Ambassador, Dreamer 8th Cohort, Planning Department Head
+Planning Department Head | March 2019 ~ March 2021
 
-- Team Member of the Data Visualization in Boaz Advance Session, Big Data Alliance Club ```2023.07 ~ 2024.01```
-- Team Member of the Data Visualization & Data Analytics in Boaz Base Session, Big Data Alliance Club ```2023.01 ~ 2023.06```
-- Administrator of Student Association Presentation Club SPLING 47th ```2022.01 ~ 2022.06```
-- Team Member of Student Association Presentation Club SPLING 45th ```2021.08 ~ 2021.12```
-- Team Leader for Education Donation Program 'Sok Sok Camp' ```2021.04 ~ 2021.09```
+- Dongguk University Volunteer Group 'True Person' 15th Cohort
+Member | March 2021 ~ June 2021
+
+- Republic of Korea Air Force 827th Information and Communication Battalion, Security Systems Soldier
+Service Period | June 2021 ~ March 2023
+
+- AYC Data Analysis Union Club
+Member | June 2020 ~ June 2021
+
+- Dongguk University CAPS Academic Department
+Member | September 2020 ~ June 2021
+
+- Boot Camp Tech IT Data Analysis 1st Cohort
+Participant | March 2023 ~ September 2023
+
+- Dongguk University AI Course Teaching Assistant
+Teaching Assistant | June 2023 ~ September 2023
+
+- HI-SW Volunteer Group, ChungHwa Middle School Instructor
+Instructor | June 2023 ~ December 2023
+
+- Farm System AI Department / Project Manager
+Activity Period | June 2023 ~ March 2024
+
 
 ### 😄 Interests
 I'm interested in **Machine Learning / Deep Learning** and **Natural Language Processing**. But, it would be changed regularly. <br>
