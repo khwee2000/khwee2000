@@ -55,7 +55,7 @@ I'm interested in **Machine Learning / Deep Learning** and **Natural Language Pr
 I'm currently studying **Tableau** and **Deep Learning** in BOAZ.<br>
 I'll also study **CS231n, CS229n** too.<br>
 I'm currently in PADA Lab for internship. I want to learn time series data analysis and recommendation system.
-If you want to see more information about me, here is my [**CV 📥**](https://github.com/Kisooofficial/CV/blob/main/%EA%B4%91%EC%9A%B4%EB%8C%80_%EA%B9%80%EA%B8%B0%EC%88%98_CV.pdf)
+If you want to see more information about me, here is my CV
 
 <div>
 
