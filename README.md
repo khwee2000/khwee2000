@@ -22,29 +22,22 @@ Hi I'm Kim minsu, I'm a dreamer of studying ML/DL. <br>Reading the world through
 ### 🔭 projects
 
 #### 2019 (1st Year)
-- 창의적 공학 설계 - 센서를 이용한 로봇싸움 `2019.09 ~ 2019.12` [역할 : 팀장, 소프트웨어, 로봇 하드웨어 제작]
+- **창의적 공학 설계** - 센서를 이용한 로봇싸움 `2019.09 ~ 2019.12` [역할 : 팀장, 소프트웨어, 로봇 하드웨어 제작]
 
 #### 2020 (2nd Year)
-- MDA (데이터 크리에이터 캠프) [역할 : 국산 차량 이미지를 통해 차량 클래스 구분하는 모델 구축]
-- MDA (소비트렌드 코리아 2020) [역할: 유통 소비데이터 분석 & 시각화 경진대회]
+- **MDA (데이터 크리에이터 캠프)** [역할 : 국산 차량 이미지를 통해 차량 클래스 구분하는 모델 구축]
+- **MDA (소비트렌드 코리아 2020)** [역할: 유통 소비데이터 분석 & 시각화 경진대회]
 
-## 2021 (3rd Year 1st Semester)
-### 공공N빵
-- **역할**: 사업계획서, CTO
+#### 2021 (3rd Year 1st Semester)
+- **공공N빵** [역할: 사업계획서, CTO]
 
-## 2022
-### 공군 복무
-- **기간**: 2021.06 ~ 2023.03
+#### 2022
+- **공군 복무** `2021.06 ~ 2023.03`
 
-## 2023 (3rd Year 2nd Semester)
-### 상반기
-#### Streamlit Guide: Web App Development
-- **기간**: 2023.03 ~ 2023.09
-- **역할**: 시각화 파트 집필
-
-#### Algorithm-Coding-Test-Data-Analysis
-- **기간**: 2023.03 ~ 2023.09
-- **역할**: JavaScript 함수 처리
+#### 2023 (3rd Year 2nd Semester)
+##### 상반기
+- **Streamlit Guide: Web App Development** `2023.03 ~ 2023.09` [역할 : 시각화 파트 집필]
+- **Algorithm-Coding-Test-Data-Analysis**  `2023.03 ~ 2023.09` [역할: JavaScript 함수 처리]
 
 ### 하반기
 #### Acokkini(아코끼니) - 동국대학교 식단 관리 서비스
