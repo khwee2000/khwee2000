@@ -36,21 +36,13 @@ Hi I'm Kim minsu, I'm a dreamer of studying ML/DL. <br>Reading the world through
 
 #### 2023 (3rd Year 2nd Semester)
 ##### 상반기
-- **Streamlit Guide: Web App Development** `2023.03 ~ 2023.09` [역할 : 시각화 파트 집필]
-- **Algorithm-Coding-Test-Data-Analysis**  `2023.03 ~ 2023.09` [역할: JavaScript 함수 처리]
+- **Streamlit Guide: Web App Development**  [역할 : 시각화 파트 집필] `2023.03 ~ 2023.09`
+- **Algorithm-Coding-Test-Data-Analysis**   [역할: JavaScript 함수 처리] `2023.03 ~ 2023.09`
 
-### 하반기
-#### Acokkini(아코끼니) - 동국대학교 식단 관리 서비스
-- **기간**: 2023.09 ~ 2023.12
-- **역할**: 안드로이드 스튜디오
-
-#### OMZ-Translation(OMZ번역 서비스)
-- **기간**: 2023.08 ~ 2023.12
-- **역할**: [역할 명시 필요]
-
-#### HI-SW(신자중학교 IT멘토링)
-- **역할**: 샌드위치 코딩
-
+#### 하반기
+- Acokkini(아코끼니) - 동국대학교 식단 관리 서비스 [역할: 안드로이드 스튜디오] `2023.09 ~ 2023.12`
+- OMZ-Translation(OMZ번역 서비스) [역할: [역할 명시 필요]]  `2023.08 ~ 2023.12`
+- HI-SW(신자중학교 IT멘토링) [역할: 샌드위치 코딩]
 - HI-SW(오조봇 2팀) [역할: '오조봇 넌 누구니'교안 제작]
 
 #### 2024 (4th Year)
