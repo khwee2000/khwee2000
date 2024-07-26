@@ -22,7 +22,7 @@ Hi I'm Kim minsu, I'm a dreamer of studying ML/DL. <br>Reading the world through
 ### 🔭 projects
 
 - 2019 (1st Year)
-  - <span style="color: blue;"> **창의적 공학 설계**  [역할 : 센서를 이용한 로봇싸움 팀장, 소프트웨어, 로봇 하드웨어 제작]  `2019.09 ~ 2019.12`</span>
+  - <span style="color: blue;"> **창의적 공학 설계**  </span> [역할 : 센서를 이용한 로봇싸움 팀장, 소프트웨어, 로봇 하드웨어 제작]  `2019.09 ~ 2019.12`
 
 - 2020 (2nd Year)
   - **MDA (데이터 크리에이터 캠프)** [역할 : 국산 차량 이미지를 통해 차량 클래스 구분하는 모델 구축]
