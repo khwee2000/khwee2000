@@ -20,11 +20,9 @@ Hi I'm Kim minsu, I'm a dreamer of studying ML/DL. <br>Reading the world through
 - Double Major in Data Science
 
 ### 🔭 projects
-# Projects
 
-## 2019 (1st Year)
-### 창의적 공학 설계 - 센서를 이용한 로봇싸움
-- **기간**: 2019.09 ~ 2019.12
+#### 2019 (1st Year)
+창의적 공학 설계 - 센서를 이용한 로봇싸움 '2019.09 ~ 2019.12'
 - **역할**: 팀장, 소프트웨어, 로봇 하드웨어 제작
 
 ## 2020 (2nd Year)
