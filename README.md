@@ -20,12 +20,73 @@ Hi I'm Kim minsu, I'm a dreamer of studying ML/DL. <br>Reading the world through
 - Double Major in Data Science
 
 ### 🔭 projects
-- Acokkini(아코끼니) - 동국대학교 식단 관리 서비스 (역할: 안드로이드 스튜디오) Dongguk University `2023.09 ~ 2023.12`
-- Algorithm-Coding-Test-Data-Analysis(알고리즘 코딩테스트 데이터분석 웹) - `2023.03 ~ 2023.09`
-- closeup(클로즈업) - `2023.03 ~ 2024.02`
-- FarmSystem(팜시스템) - `2023.03 ~ 2024.03`
-- OMZ-Translation(OMZ번역 서비스) - `2023.08 ~ 2023.12`
-- Streamlit Guide: Web App Development(streamlit 가이드 책 배포) - `2023.03 ~ 2023.09`
+# Projects
+
+## 2019 (1st Year)
+### 창의적 공학 설계 - 센서를 이용한 로봇싸움
+- **기간**: 2019.09 ~ 2019.12
+- **역할**: 팀장, 소프트웨어, 로봇 하드웨어 제작
+
+## 2020 (2nd Year)
+### MDA (데이터 크리에이터 캠프)
+- **프로젝트**: 국산 차량 이미지를 통해 차량 클래스 구분하는 모델
+
+### MDA (소비트렌드 코리아 2020)
+- **프로젝트**: 유통 소비데이터 분석 & 시각화 경진대회
+
+## 2021 (3rd Year 1st Semester)
+### 공공N빵
+- **역할**: 사업계획서, CTO
+
+## 2022
+### 공군 복무
+- **기간**: 2021.06 ~ 2023.03
+
+## 2023 (3rd Year 2nd Semester)
+### 상반기
+#### Streamlit Guide: Web App Development
+- **기간**: 2023.03 ~ 2023.09
+- **역할**: 시각화 파트 집필
+
+#### Algorithm-Coding-Test-Data-Analysis
+- **기간**: 2023.03 ~ 2023.09
+- **역할**: JavaScript 함수 처리
+
+### 하반기
+#### Acokkini(아코끼니) - 동국대학교 식단 관리 서비스
+- **기간**: 2023.09 ~ 2023.12
+- **역할**: 안드로이드 스튜디오
+
+#### OMZ-Translation(OMZ번역 서비스)
+- **기간**: 2023.08 ~ 2023.12
+- **역할**: [역할 명시 필요]
+
+#### HI-SW(신자중학교 IT멘토링)
+- **역할**: 샌드위치 코딩
+
+#### HI-SW(오조봇 2팀) - 오조봇 넌 누구니
+- **역할**: 교안 제작
+
+## 2024 (4th Year)
+
+### 상반기
+#### LG Aimers 6기
+
+#### Closeup (클로즈업)
+- **기간**: 2023.03 ~ 2024.02
+- **역할**: PM, 추천시스템
+
+#### A-IDLE (에이아이들)
+- **기간**: 2024.03 ~ 2024.07
+- **역할**: PM, 데이터 수집 및 전처리, 프롬프트 엔지니어링
+
+#### 경로당아이들 (ToBig’s 21기&20기)
+- **기간**: 2024.04 ~ 2024.07
+- **역할**: 데이터 수집, 태블로 시각화
+
+### 하반기
+#### T20 (인턴)
+- **역할**: NCS 인턴 진행중
 
 
 ### ⚡ ExtraCurricular Activity
