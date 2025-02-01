@@ -29,15 +29,15 @@ Hi I'm Kim minsu, I'm a dreamer of studying ML/DL. <br>Reading the world through
   - **MDA (소비트렌드 코리아 2020)** [역할: 유통 소비데이터 분석 & 시각화 경진대회] `2020.09 ~ 2024.11`
 
 - 2021 (3rd Year 1st Semester)
-  - **공공N빵** [역할: 사업계획서, CTO]
+  - **공공N빵** [역할:CTO 기술 개발]
 
 - 2022
   - **공군 복무** `2021.06 ~ 2023.03`
 
 - 2023 (3rd Year 2nd Semester)
   -  상반기
-  - **Streamlit Guide: Web App Development**  [역할 : 시각화 파트 집필] `2023.03 ~ 2023.09`
-  - **Algorithm-Coding-Test-Data-Analysis**   [역할: JavaScript 함수 처리] `2023.03 ~ 2023.09`
+  - **Streamlit Guide: Web App Development**  [역할 : 시각화 파트 E-Book 집필] `2023.03 ~ 2023.09`
+  - **Algorithm-Coding-Test-Data-Analysis**   [역할: 프로젝트 기획 및 JavaScript 함수 데이터 전처리] `2023.03 ~ 2023.09`
 
   - 하반기
   - Acokkini(아코끼니) - 동국대학교 식단 관리 서비스 [역할: 안드로이드 스튜디오] `2023.09 ~ 2023.12`
@@ -45,17 +45,17 @@ Hi I'm Kim minsu, I'm a dreamer of studying ML/DL. <br>Reading the world through
   - HI-SW(신자중학교 IT멘토링) [역할: 샌드위치 코딩]
   - HI-SW(오조봇 2팀) [역할: '오조봇 넌 누구니'교안 제작]
 
-#### 2024 (4th Year)
+- 2024 (4th Year)
 
-##### 상반기
-- LG Aimers 6기
-- Closeup (클로즈업) [역할: PM, 추천시스템] - `2023.03 ~ 2024.02`
-- A-IDLE (에이아이들) [역할: PM, 데이터 수집 및 전처리, 프롬프트 엔지니어링] `2024.03 ~ 2024.07`
-- 경로당아이들 (ToBig’s 21기&20기) [역할: 데이터 수집, 태블로 시각화] `2024.04 ~ 2024.07` 
+- 상반기
+  - LG Aimers 6기
+  - Closeup (클로즈업) [역할: PM, 추천시스템] - `2023.03 ~ 2024.02`
+  - A-IDLE (에이아이들) [역할: PM, 데이터 수집 및 전처리, 프롬프트 엔지니어링] `2024.03 ~ 2024.07`
+  - 경로당아이들 (ToBig’s 21기&20기) [역할: 데이터 수집, 태블로 시각화] `2024.04 ~ 2024.07` 
 
-##### 하반기
-- T20 (인턴)[역할: NCS 인턴 진행중] `2024.08~`
-
+- 하반기
+  - T20 (인턴)[역할: 한전 MCS ESG 신사업 기획팀 인턴] `2024.08~ 2024.09`
+  - 안심하이 [역할: 대표]
 
 ### ⚡ ExtraCurricular Activity
 - Dongguk University Promotional Ambassador, Dreamer 8th Cohort, Planning Department Head
