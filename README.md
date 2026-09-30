@@ -39,6 +39,30 @@ LLM 에이전트가 **실제 계좌·실제 사용자**를 다룰 때 무너지�
 
 <br>
 
+## 🖼 What I've shipped
+
+<table>
+<tr>
+<td width="33%" align="center"><a href="https://marketplace.visualstudio.com/items?itemName=innohi.md-pretty-viewer"><img src="assets/md-viewer.jpg" alt="MD Pretty Viewer" /></a><br><b>MD Pretty Viewer</b><br><sub>VS Code 확장 · 설치 1,268</sub></td>
+<td width="33%" align="center"><a href="https://inno-hi.github.io/ClaudeUsageWidget/"><img src="assets/claude-usage-widget.jpg" alt="Claude Usage Widget" /></a><br><b>Claude Usage Widget</b><br><sub>macOS 앱 · 다운로드 984</sub></td>
+<td width="33%" align="center"><a href="https://inno-hi-inc.github.io/hancom-hotkey/"><img src="assets/hancom-hotkey.jpg" alt="한컴단축키" /></a><br><b>한컴단축키</b><br><sub>macOS 메뉴바 · Apple 공증</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="https://inno-hi.github.io/weeklaude/"><img src="assets/weeklaude.jpg" alt="위클렌드" /></a><br><b>위클렌드</b><br><sub>Claude Code 주간 트렌드 · 자동 갱신</sub></td>
+<td align="center"><a href="https://inno-hi-inc.github.io/nukki/"><img src="assets/nukki.jpg" alt="Nukki" /></a><br><b>Nukki</b><br><sub>브라우저 온디바이스 배경 제거 AI</sub></td>
+<td align="center"><a href="https://inno-hi-inc.github.io/all-about-pdf/"><img src="assets/all-about-pdf.jpg" alt="PDF의 모든 것" /></a><br><b>PDF의 모든 것</b><br><sub>업로드 없는 PDF 도구</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="https://inno-hi-inc.github.io/bujorok/"><img src="assets/bujorok.jpg" alt="부조록" /></a><br><b>부조록</b><br><sub>경조사 장부 AI 디지털화</sub></td>
+<td align="center"><a href="https://inno-hi-inc.github.io/hi-university/"><img src="assets/hi-university.jpg" alt="하이유니" /></a><br><b>하이유니</b><br><sub>생활기록부 AI 입시 분석</sub></td>
+<td align="center"><a href="https://khwee2000.github.io"><img src="assets/poem.jpg" alt="오늘의 시" /></a><br><b>오늘의 시</b><br><sub>매일 한 편 · 한글 공유 카드</sub></td>
+</tr>
+</table>
+
+<p align="center"><sub>이미지를 누르면 실제 서비스로 이동합니다</sub></p>
+
+<br>
+
 ## ⭐ Featured
 
 ### [📈 toss-mcp](https://github.com/khwee2000/toss-mcp) — 실계좌를 다루는 LLM 에이전트
@@ -50,6 +74,15 @@ LLM 에이전트가 **실제 계좌·실제 사용자**를 다룰 때 무너지�
 Claude × 토스증권 Open API MCP 서버. 자연어로 실계좌를 조회·주문하고, 그 위에서 변동성 적응형 스윙 엔진을 돌린다.
 - 실돈이 오가는 주문 경로에 **안전 불변식 13개** 강제 (dry-run 기본 · 이중 확인 · kill-switch · 감사로그)
 - 키 없이도 전 기능이 도는 **mock 모드**로 재현 가능한 테스트
+
+```mermaid
+flowchart LR
+    U["💬 &quot;엔비디아 50만원<br/>3분할 매수해줘&quot;"] --> C[Claude]
+    C -->|MCP| P["plan_order<br/>검증·리스크 계산"]
+    P -->|preview_token<br/>+ confirm_phrase| G{"🛡️ 4중 게이트"}
+    G -->|토큰 유효 · 문구 일치<br/>LIVE=1 · KILL 재확인| T[(토스증권<br/>실계좌)]
+    G -.->|하나라도 실패| D["dry-run 강등"]
+```
 
 ### [📝 MD Pretty Viewer](https://github.com/INNO-HI-Inc/md-viewer) — VS Code 마켓플레이스 설치 1,268회
 ![VS Code](https://img.shields.io/badge/VS%20Code%20Extension-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
