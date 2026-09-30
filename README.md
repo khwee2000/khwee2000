@@ -60,13 +60,56 @@ Claude Code 에이전트·스킬·MCP 주간 트렌드 인덱스.
 형법 문제 특화 LLM 에이전트와 자동 평가 파이프라인.
 - 답변 생성 → 채점 전 과정 자동화 · Docker로 재현 가능한 실행 환경
 
-<details>
-<summary><b>그 밖의 작업</b></summary>
 <br>
 
-- **안심하이(SafeHi)** — 지자체 돌봄 매니저용 Flutter 앱. 146커밋, Play 스토어 심사·배포 담당 *(회사 private 레포)*
-- **[khwee2000-poem](https://github.com/khwee2000/khwee2000-poem)** — 매일 한 편 한국 근현대 명시. Next.js 정적 export · `next/og` 한글 공유 카드 → [khwee2000.github.io](https://khwee2000.github.io)
-- **[dog-recommendation-systems](https://github.com/khwee2000/dog-recommendation-systems)** — 네이버 블로그 크롤링 + TF-IDF 반려견 성격 추천
+## 🧩 더 많은 프로젝트
+
+#### 🏢 INNO-HI 제품 · 서비스
+
+| 프로젝트 | 설명 | 스택 | 링크 |
+|---|---|---|---|
+| **안심하이 (SafeHi)** | 지자체 돌봄 매니저용 Flutter 앱. 146커밋, Play 스토어 심사·배포 담당 | Flutter | *private* · [데모](https://github.com/INNO-HI/safehi-demo) |
+| **[HI-Sing](https://github.com/INNO-HI/HI-Sing)** | 노래로 전하는 우리 가족 이야기 — 가족 맞춤 노래 제작 스토어 | Next.js · TS |  |
+| **[hi-university](https://github.com/INNO-HI-Inc/hi-university)** | 생활기록부 AI 분석 입시컨설팅 — 대학 추천·강약점·면접 전략 | Next.js · TS | [사이트](https://inno-hi-inc.github.io/hi-university/) |
+| **[kidsdiag-app](https://github.com/INNO-HI-Inc/kidsdiag-app)** | 초5 학력진단·AI 심화학습 MVP (한국창의영재교육원 협업) | TS | |
+| **[oneul-news](https://github.com/INNO-HI-Inc/oneul-news)** | 매일 아침 7시 밤사이 뉴스를 정리해 발행하는 브리핑 (iOS 앱 연동) | JS | |
+| **[isa-refund](https://github.com/INNO-HI-Inc/isa-refund)** | 이사정산소 — 장기수선충당금 자동 계산 + 반환 서류 생성 | TS | |
+| **[bujorok](https://github.com/INNO-HI-Inc/bujorok)** | 부조록 — 축의금·부의금 장부 사진을 AI로 디지털 장부화 (브라우저 로컬 처리) | TS | |
+| **[Website](https://github.com/INNO-HI/Website)** | 이노하이 회사 웹사이트 | Next.js · TS |  |
+
+#### 🛠 개발자 도구 · 브라우저 앱
+
+| 프로젝트 | 설명 | 스택 | 링크 |
+|---|---|---|---|
+| **[md-viewer](https://github.com/INNO-HI-Inc/md-viewer)** ⭐7 | VS Code 마크다운 프리뷰 확장 — 라이브 편집 · 7개 테마 · 아웃라인 | VS Code Ext | |
+| **[html-live-viewer](https://github.com/INNO-HI-Inc/html-live-viewer)** | VS Code에서 HTML을 실제 브라우저처럼 실시간 미리보기 | VS Code Ext | |
+| **[all-about-pdf](https://github.com/INNO-HI-Inc/all-about-pdf)** | 서버 업로드 없는 한국어 PDF 도구 모음 (합치기·분할·변환·잠금해제) | HTML · JS | |
+| **[nukki](https://github.com/INNO-HI-Inc/nukki)** | 브라우저 100% 배경 제거 — RMBG-1.4 + transformers.js, WebGPU/WASM | JS | |
+| **[mac-special-chars](https://github.com/INNO-HI-Inc/mac-special-chars)** | 맥에서 윈도우 한자키처럼 — ㅁ 특수문자 단축어 99종 + ⌥Space 팔레트 | HTML | [사이트](https://inno-hi-inc.github.io/mac-special-chars/) |
+| **[cstimer-clone](https://github.com/INNO-HI-Inc/cstimer-clone)** | 토스 디자인 언어로 만든 스피드큐브 타이머 — WCA 스크램블 16종 · 통계 · 오프라인 PWA | Vanilla JS | |
+
+#### 🎓 팀 · 학교 · 동아리 프로젝트
+
+| 프로젝트 | 설명 | 스택 | 링크 |
+|---|---|---|---|
+| **[algoview](https://github.com/Algorithm-Coding-Test-Data-Analysis/algoview)** ⭐20 | 코딩테스트 풀이 데이터 분석 — 언어별 내장 메서드 사용 빈도 시각화 | JS |  |
+| **[A-IDLE](https://github.com/CSID-DGU/2024-1-DSCD-A_IDLE-3)** | 데이터사이언스 캡스톤 — 생성형 AI 블로그 콘텐츠 자동 작성·포스팅 | Python | |
+| **[ojitong](https://github.com/Subworkers/ojitong)** | 오늘의 지하철 소식통 — 뉴스 크롤링 → 지식 선별·주입 프롬프트 엔지니어링 | Python | |
+| **[LinkRoom](https://github.com/doit-yb)** | "쉬었음 청년 → 뭘했음 청년" — 청년을 정책·사람과 다시 잇는 AI 상담 파트너 | | |
+| **[MZ 번역기](https://github.com/omz-translation/react-code)** | KE-T5 파인튜닝 + MZ 코퍼스 전이학습으로 신조어 번역 | React · T5 | |
+| **[MisconcepTutor](https://github.com/Jintonic92/MisconcepTutor)** | 수학 오답의 misconception 분석 → 맞춤 연습문제 생성 | Python | |
+| **[khwee2000-poem](https://github.com/khwee2000/khwee2000-poem)** | 매일 한 편 한국 근현대 명시 — Next.js 정적 export · `next/og` 한글 공유 카드 | Next.js | [사이트](https://khwee2000.github.io) |
+| **[dog-recommendation-systems](https://github.com/khwee2000/dog-recommendation-systems)** | 네이버 블로그 크롤링 + TF-IDF 반려견 성격 추천 | Python | |
+
+<details>
+<summary><b>그 밖의 기여</b></summary>
+<br>
+
+- **[ToBig's 대시보드 · Tours_Team](https://github.com/Tobigs-DashBoard/Tours_Team)** — 여행사 투어 상품 수집 → DB 적재 파이프라인
+- **[ToBig's 22기 정규세션](https://github.com/tobigs-datamarket/tobigs-22nd)** — 정규세션 과제
+- **[AI-Care-Report](https://github.com/pauly00/AI-Care-Report)** — AI 상담 데이터 요약·리포트 자동화
+- **[Close-up 래플](https://github.com/closeup-raffle/AI)** · **[FarmSystem close-up-5](https://github.com/FarmSystem/close-up-5-ai)** — AI 파트
+- **[모바일소프트웨어 기말](https://github.com/Acokkini/mobilesoftware)** — Android 앱
 
 </details>
 
