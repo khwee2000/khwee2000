@@ -16,21 +16,21 @@
 
 <br>
 
-## 👋 About
+## About
 
 LLM 에이전트가 **실제 계좌·실제 사용자**를 다룰 때 무너지지 않게 만드는 일을 합니다.
 기능보다 안전장치와 검증을 먼저 설계하고, 스토어·공증·배포까지 끝까지 가져갑니다.
 
-- 🏢 **(주)이노하이 대표** · 2025.06 – 현재
-- 🎓 동국대학교 정보통신공학 · 데이터사이언스 복수전공 (2025.08 졸업)
+- **(주)이노하이 대표** · 2025.06 – 현재
+- 동국대학교 정보통신공학 · 데이터사이언스 복수전공 (2025.08 졸업)
 
 <br>
 
-## 📊 Shipped, by the numbers
+## Shipped, by the numbers
 
 <div align="center">
 
-| 🧩 VS Code 확장 설치 | 🍎 macOS 앱 다운로드 | 🚀 공개 릴리스 | ✅ 유닛 테스트 |
+| VS Code 확장 설치 | macOS 앱 다운로드 | 공개 릴리스 | 유닛 테스트 |
 |:---:|:---:|:---:|:---:|
 | **1,500+** | **1,000+** | **96+** | **304** |
 | MD Pretty Viewer · HTML Live Viewer | ClaudeUsageWidget · 한컴단축키 | 3개 제품 누적 | toss-mcp |
@@ -39,7 +39,7 @@ LLM 에이전트가 **실제 계좌·실제 사용자**를 다룰 때 무너지�
 
 <br>
 
-## 🖼 What I've shipped
+## What I've shipped
 
 <table>
 <tr>
@@ -63,9 +63,9 @@ LLM 에이전트가 **실제 계좌·실제 사용자**를 다룰 때 무너지�
 
 <br>
 
-## ⭐ Featured
+## Featured
 
-### [📈 toss-mcp](https://github.com/khwee2000/toss-mcp) — 실계좌를 다루는 LLM 에이전트
+### [toss-mcp](https://github.com/khwee2000/toss-mcp) — 실계좌를 다루는 LLM 에이전트
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MCP](https://img.shields.io/badge/FastMCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
@@ -77,14 +77,14 @@ Claude × 토스증권 Open API MCP 서버. 자연어로 실계좌를 조회·�
 
 ```mermaid
 flowchart LR
-    U["💬 &quot;엔비디아 50만원<br/>3분할 매수해줘&quot;"] --> C[Claude]
+    U["&quot;엔비디아 50만원<br/>3분할 매수해줘&quot;"] --> C[Claude]
     C -->|MCP| P["plan_order<br/>검증·리스크 계산"]
-    P -->|preview_token<br/>+ confirm_phrase| G{"🛡️ 4중 게이트"}
+    P -->|preview_token<br/>+ confirm_phrase| G{"4중 게이트"}
     G -->|토큰 유효 · 문구 일치<br/>LIVE=1 · KILL 재확인| T[(토스증권<br/>실계좌)]
     G -.->|하나라도 실패| D["dry-run 강등"]
 ```
 
-### [📝 MD Pretty Viewer](https://github.com/INNO-HI-Inc/md-viewer) — VS Code 마켓플레이스 설치 1,268회
+### [MD Pretty Viewer](https://github.com/INNO-HI-Inc/md-viewer) — VS Code 마켓플레이스 설치 1,268회
 ![VS Code](https://img.shields.io/badge/VS%20Code%20Extension-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![installs](https://img.shields.io/badge/installs-1%2C268-2ea44f?style=flat-square)
 ![releases](https://img.shields.io/badge/releases-66-448CFF?style=flat-square)
@@ -93,7 +93,7 @@ flowchart LR
 마크다운 프리뷰 확장 — 라이브 편집 · 7개 컬러 테마 · 아웃라인 사이드바.
 - 릴리스 **66회** 반복 배포 · [마켓플레이스](https://marketplace.visualstudio.com/items?itemName=innohi.md-pretty-viewer) · [라이브 데모](https://inno-hi-inc.github.io/md-viewer/demo.html)
 
-### [📊 ClaudeUsageWidget](https://github.com/INNO-HI/ClaudeUsageWidget) — macOS 앱 다운로드 984회
+### [ClaudeUsageWidget](https://github.com/INNO-HI/ClaudeUsageWidget) — macOS 앱 다운로드 984회
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=apple&logoColor=white)
 ![downloads](https://img.shields.io/github/downloads/INNO-HI/ClaudeUsageWidget/total?style=flat-square&color=2ea44f)
@@ -102,7 +102,7 @@ flowchart LR
 Claude Code 사용량을 macOS 메뉴바에서 실시간으로 — burn-rate ETA · 7일 스파크라인 · 알림 · CSV/JSON 내보내기.
 - **코드서명·공증 · Sparkle 자동 업데이트 · GitHub Actions 릴리스** 파이프라인 · 릴리스 27회 · 4개 언어 · [사이트](https://inno-hi.github.io/ClaudeUsageWidget/)
 
-### 🤝 안심하이 (SafeHi) — 지자체 돌봄 현장에서 쓰는 앱
+### 안심하이 (SafeHi) — 지자체 돌봄 현장에서 쓰는 앱
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white)
 
@@ -110,7 +110,7 @@ Claude Code 사용량을 macOS 메뉴바에서 실시간으로 — burn-rate ETA
 
 <br>
 
-## 🚢 사용자에게 배포한 도구
+## 사용자에게 배포한 도구
 
 | 프로젝트 | 무엇을 | 근거 |
 |---|---|---|
@@ -121,9 +121,7 @@ Claude Code 사용량을 macOS 메뉴바에서 실시간으로 — burn-rate ETA
 
 <br>
 
-## 🔒 서버로 보내지 않는 AI · 웹앱
-
-> 사용자 데이터는 브라우저 밖으로 나가지 않는다 — 에이전트 안전과 같은 원칙을 웹에도.
+## 서버로 보내지 않는 AI · 웹앱
 
 | 프로젝트 | 무엇을 | 체험 |
 |---|---|---|
@@ -135,7 +133,7 @@ Claude Code 사용량을 macOS 메뉴바에서 실시간으로 — burn-rate ETA
 
 <br>
 
-## 🧠 LLM · 데이터 R&D
+## LLM · 데이터 R&D
 
 | 프로젝트 | 무엇을 | 스택 |
 |---|---|---|
@@ -144,11 +142,11 @@ Claude Code 사용량을 macOS 메뉴바에서 실시간으로 — burn-rate ETA
 | **[ojitong](https://github.com/Subworkers/ojitong)** | 뉴스 크롤링 → 지식 선별·주입 프롬프트 엔지니어링 (지하철 소식통) | Python |
 | **[MZ 번역기](https://github.com/omz-translation/react-code)** | KE-T5 파인튜닝 + MZ 코퍼스 전이학습으로 신조어 번역 | T5 · React |
 | **[MisconcepTutor](https://github.com/Jintonic92/MisconcepTutor)** | 수학 오답의 misconception 분석 → 맞춤 연습문제 생성 | Python |
-| **[algoview](https://github.com/Algorithm-Coding-Test-Data-Analysis/algoview)** ⭐20 | 코딩테스트 풀이의 언어별 내장 메서드 사용 빈도 분석 | JS |
+| **[algoview](https://github.com/Algorithm-Coding-Test-Data-Analysis/algoview)** · 20 stars | 코딩테스트 풀이의 언어별 내장 메서드 사용 빈도 분석 | JS |
 | **[dog-recommendation-systems](https://github.com/khwee2000/dog-recommendation-systems)** | 네이버 블로그 크롤링 + TF-IDF 반려견 성격 추천 | Python · KoNLPy |
 
 <details>
-<summary><b>🏢 INNO-HI 서비스 · 그 밖의 작업</b></summary>
+<summary><b>INNO-HI 서비스 · 그 밖의 작업</b></summary>
 <br>
 
 - **[HI-Sing](https://github.com/INNO-HI/HI-Sing)** — 노래로 전하는 우리 가족 이야기, 가족 맞춤 노래 스토어 (Next.js)
@@ -164,7 +162,7 @@ Claude Code 사용량을 macOS 메뉴바에서 실시간으로 — burn-rate ETA
 
 <br>
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | 분야 | 기술 |
 |---|---|
@@ -175,12 +173,12 @@ Claude Code 사용량을 macOS 메뉴바에서 실시간으로 — burn-rate ETA
 
 <br>
 
-## 📌 이전 활동
+## 이전 활동
 
-- 🐯 ToBig's 빅데이터 분석 동아리 · LG Aimers 6기
-- ✍️ 『Streamlit Guide: Web App Development』 시각화 파트 집필
-- ⚡ 한전MCS ESG 신사업기획팀 인턴 (2024.08 – 09)
-- 🎖️ 공군 병장 만기 전역
+- ToBig's 빅데이터 분석 동아리 · LG Aimers 6기
+- 『Streamlit Guide: Web App Development』 시각화 파트 집필
+- 한전MCS ESG 신사업기획팀 인턴 (2024.08 – 09)
+- 공군 병장 만기 전역
 
 <br>
 
