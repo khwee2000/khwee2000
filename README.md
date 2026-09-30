@@ -1,133 +1,46 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=3476DE&height=300&section=header&text=Bluemisofficial&fontSize=80)
+## 김민수 · AI Engineer
 
-## 🙋‍♂️ Introduce
-<div align="center">
-Hi I'm Kim minsu, I'm a dreamer of studying ML/DL. <br>Reading the world through computers 🌐 | ML/DL Developer | Captivated by the beauty of data.👋
-</div>
+LLM 에이전트가 **실제 계좌·실제 사용자**를 다룰 때 무너지지 않게 만드는 일을 합니다.
+기능보다 안전장치와 검증을 먼저 설계하고, 스토어·공증·배포까지 끝까지 가져갑니다.
 
+- 🏢 **(주)이노하이 대표** · 2025.06 – 현재
+- 🎓 동국대학교 정보통신공학 · 데이터사이언스 복수전공 (2025.08 졸업)
+- ✉️ 2874024@naver.com · 📝 [velog.io/@khwee2000](https://velog.io/@khwee2000/posts)
 
-## 📫Contact
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kms4024@gmail.com)](mailto:kms4024@gmail.com) 
-[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@khwee2000/posts)](https://velog.io/@khwee2000/posts)
-[![Notion Badge](https://img.shields.io/badge/-Notion-000?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/4c2f27f7472840d5a44a8c96c8b356c8)](https://www.notion.so/4c2f27f7472840d5a44a8c96c8b356c8)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-5851DB?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bluenims/)](https://www.instagram.com/bluenims/)
+<br>
 
+### 대표 프로젝트
 
-## 🔭About me
+| 프로젝트 | 무엇을 | 근거 |
+|---|---|---|
+| **[toss-mcp](https://github.com/khwee2000/toss-mcp)** | Claude × 토스증권 Open API MCP 서버. 자연어로 실계좌를 조회·주문하고, 그 위에서 변동성 적응형 스윙 엔진을 돌린다 | 유닛테스트 **304개** · 실돈 안전 불변식 13개 · 키 없이 도는 mock 모드 |
+| **[ClaudeUsageWidget](https://github.com/INNO-HI/ClaudeUsageWidget)** | Claude Code 사용량을 macOS 메뉴바에서 실시간으로 보는 앱 | Swift/SwiftUI · 서명·공증·Sparkle 자동 업데이트 · GitHub Actions 릴리스 · 4개 언어 |
+| **[weeklaude](https://github.com/INNO-HI/weeklaude)** | Claude Code 에이전트·스킬·MCP 주간 트렌드 인덱스 | 매주 월요일 자동 수집·갱신 · [사이트](https://inno-hi.github.io/weeklaude/) |
+| **[dacon_crew](https://github.com/khwee2000/dacon_crew)** | 형법 문제 특화 LLM 에이전트와 자동 평가 파이프라인 | 답변 생성 → 채점 전 과정 자동화 · Docker |
 
-### :mortar_board: Education
-- B.S. in Information and Communication Engineering, Dongguk University `2019.03 ~ 2025.03`
-- Double Major in Data Science
+<details>
+<summary>그 밖의 작업</summary>
 
-### 🔭 projects
+- **안심하이(SafeHi)** — 지자체 돌봄 매니저용 Flutter 앱. 146커밋, Play 스토어 심사·배포 담당 *(회사 private 레포)*
+- **[khwee2000-poem](https://github.com/khwee2000/khwee2000-poem)** — 매일 한 편 한국 근현대 명시. Next.js 정적 export · `next/og` 한글 공유 카드 → [khwee2000.github.io](https://khwee2000.github.io)
+- **[dog-recommendation-systems](https://github.com/khwee2000/dog-recommendation-systems)** — 네이버 블로그 크롤링 + TF-IDF 반려견 성격 추천
 
-- 2019 (1st Year)
-  - **창의적 공학 설계** [역할 : 센서를 이용한 로봇싸움 팀장, 소프트웨어, 로봇 하드웨어 제작]  `2019.09 ~ 2019.12`
+</details>
 
-- 2020 (2nd Year)
-  - **MDA (데이터 크리에이터 캠프)** [역할 : 국산 차량 이미지를 통해 차량 클래스 구분하는 모델 구축] `2020.09 ~ 2024.12`
-  - **MDA (소비트렌드 코리아 2020)** [역할: 유통 소비데이터 분석 & 시각화 경진대회] `2020.09 ~ 2024.11`
+<br>
 
-- 2021 (3rd Year 1st Semester)
-  - **공공N빵** [역할:CTO 기술 개발]
+### 기술 스택
 
-- 2022
-  - **공군 복무** `2021.06 ~ 2023.03`
+- **LLM · Agent** — Claude API, MCP (FastMCP), 에이전트 평가 파이프라인
+- **Backend · Data** — Python, pytest, pandas / scikit-learn
+- **Client** — TypeScript · Next.js, Swift · SwiftUI (macOS), Flutter
+- **Ship** — GitHub Actions, macOS 코드서명·공증, Vercel · GitHub Pages
 
-- 2023 (3rd Year 2nd Semester)
-  -  상반기
-  - **Streamlit Guide: Web App Development**  [역할 : 시각화 파트 E-Book 집필] `2023.03 ~ 2023.09`
-  - **Algorithm-Coding-Test-Data-Analysis**   [역할: 프로젝트 기획 및 JavaScript 함수 데이터 전처리] `2023.03 ~ 2023.09`
+<br>
 
-  - 하반기
-  - Acokkini(아코끼니) - 동국대학교 식단 관리 서비스 [역할: 안드로이드 스튜디오] `2023.09 ~ 2023.12`
-  - OMZ-Translation(OMZ번역 서비스) [역할: [역할 명시 필요]]  `2023.08 ~ 2023.12`
-  - HI-SW(신자중학교 IT멘토링) [역할: 샌드위치 코딩]
-  - HI-SW(오조봇 2팀) [역할: '오조봇 넌 누구니'교안 제작]
+### 이전 활동
 
-- 2024 (4th Year)
-
-- 상반기
-  - LG Aimers 6기
-  - Closeup (클로즈업) [역할: PM, 추천시스템] - `2023.03 ~ 2024.02`
-  - A-IDLE (에이아이들) [역할: PM, 데이터 수집 및 전처리, 프롬프트 엔지니어링] `2024.03 ~ 2024.07`
-  - 경로당아이들 (ToBig’s 21기&20기) [역할: 데이터 수집, 태블로 시각화] `2024.04 ~ 2024.07` 
-
-- 하반기
-  - T20 (인턴)[역할: 한전 MCS ESG 신사업 기획팀 인턴] `2024.08~ 2024.09`
-  - 안심하이 [역할: 대표]
-
-### ⚡ ExtraCurricular Activity
-- Dongguk University Promotional Ambassador, Dreamer 8th Cohort, Planning Department Head
-Planning Department Head | ```2019.03 ~ 2021.03```
-- AYC Data Analysis Union Club
-Member | ```2020.06 ~ 2021.06```
-- Dongguk University CAPS Academic Department
-Member | ```2020.09 ~ 2021.06```
-- Dongguk University Volunteer Group 'True Person' 15th Cohort
-Member | ```2021.02 ~ 2021.06```
-- Sungkyunkwan University Pre-Startup Package, Delivery Sharing Platform '공공N빵' CTO
-```2021.01 ~ 2021.06```
-- Republic of Korea Air Force 827th Information and Communication Battalion, Security Systems Soldier
-Service Period | ```2021.06 ~ 2023.03```
-- Boot Camp Tech IT Data Analysis 1st Cohort
-Participant | ```2023.03 ~ 2023.09```
-- Dongguk University AI Course Teaching Assistant
-Teaching Assistant | ```2023.03 ~ 2023.09```
-- HI-SW Volunteer Group, ChungHwa Middle School Instructor
-Instructor | ```2023.09 ~ 2024.03```
-- Farm System AI Department / Project Manager
-Activity Period | ```2023.09 ~ 2024.03```
-
-### 😄 Interests
-I'm interested in **Machine Learning / Deep Learning** and **Natural Language Processing**. But, it would be changed regularly. <br>
-I'm currently studying **Tableau** and **Deep Learning** in BOAZ.<br>
-I'll also study **CS231n, CS229n** too.<br>
-I'm currently in PADA Lab for internship. I want to learn time series data analysis and recommendation system.
-If you want to see more information about me, here is my CV
-
-<div>
-
-## ⚡ Skills ⚡
-
-  ### 💻 Programming Language
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-276DC3?style=flat-square&logo=OpenJDK&logoColor=white">
-  <img src="https://img.shields.io/badge/C-276DC3?style=flat-square&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <br/> 
- 
-  ### 📚 Stacks
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Numpy-150458?style=flat-square&logo=Numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-00ffff?style=flat-square&logo=Matplotlib&logoColor=black">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"> <br/> 
-  
-  ### 🛠 Tools
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NodeXL-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/>
-
-
- </div>
- 
-## 🏆 Dacon competitions
-Here is [my dacon profile page](https://dacon.io/myprofile/427011/home). I'm still have so much to develop.
-- 🏅 데이콘 Basic 여행 상품 신청 여부 예측 경진대회 - **2nd placed (2/357)** [[overview](https://dacon.io/competitions/official/235959/overview/description)] [[code](https://dacon.io/codeshare/6479)]
-- 🏅 데이콘 Basic 풍력 발전 예측 AI 경진대회 - **2nd placed (2/129)** [[overview](https://dacon.io/competitions/official/236066/overview/description)] [[code](https://dacon.io/competitions/official/236066/codeshare/7738?page=1&dtype=recent)]
-- 🏅 데이콘 Basic 자동차 가격 예측 경진대회 - **3rd placed (3/262)** [[overview](https://dacon.io/competitions/official/236114/overview/description)][[code](https://dacon.io/competitions/official/236114/codeshare/8456?page=1&dtype=recent)]
-- 🏅 데이콘 Basic 축구선수 유망여부 예측 경진대회 - **3rd placed (3/89)** [[overview](https://dacon.io/competitions/open/236031/overview/description)][[code](https://dacon.io/competitions/open/236031/codeshare/7115?page=1&dtype=recent)]
-- 🥉 SW중심대학 공동 AI 경진대회 예선 - **Top 5% (8/192)** [[overview](https://dacon.io/competitions/official/235902/overview/description)][[code](https://dacon.io/competitions/official/235902/codeshare/6157?page=1&dtype=vote)]
-- 🥉 데이콘 Basic 음악 장르 예측 경진대회 - **Top 7% (9/125)**[[overview](https://dacon.io/competitions/official/236056/overview/descriptionhttps://dacon.io/competitions/official/236056/overview/description)][[code](https://dacon.io/competitions/official/236056/codeshare/7526?page=1&dtype=recent)]
-- 데이콘 Basic 해외 부동산 월세 가격 예측 경진대회 - **Top 12% (9/70)** [[overview](https://dacon.io/competitions/open/236044/overview/description)][[code](https://dacon.io/competitions/open/236044/codeshare/7348?page=1&dtype=recent)]
-
-## Hits
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhwee2000)](https://hits.seeyoufarm.com)
-
-[![Kisoo's github stats](https://github-readme-stats.vercel.app/api?username=khwee2000&show_icons=true&theme=tokyonight)](https://github.com/khwee2000)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khwee2000&layout=compact&theme=tokyonight)
+- ToBig's 빅데이터 분석 동아리 · LG Aimers 6기
+- 『Streamlit Guide: Web App Development』 시각화 파트 집필
+- 한전MCS ESG 신사업기획팀 인턴 (2024.08 – 09)
+- 공군 병장 만기 전역
